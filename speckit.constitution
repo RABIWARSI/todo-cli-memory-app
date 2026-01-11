@@ -1,0 +1,5 @@
+# AIDD Constitution
+- Phase: 1
+- Rule 1: No manual code.
+- Rule 2: Spec-driven only.
+- Tool: UV and Python 3.13.

@@ -1,0 +1,12 @@
+# Phase 1 Specification
+## Goal
+In-Memory Python Todo CLI App
+## Features
+1. add_task: Title and Description
+2. view_tasks: List all with index
+3. update_task: Edit existing
+4. delete_task: Remove by index
+5. mark_complete: Toggle status
+## Tech
+- Python 3.13
+- No external DB
